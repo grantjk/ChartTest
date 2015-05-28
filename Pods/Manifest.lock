@@ -1,0 +1,13 @@
+PODS:
+  - FSLineChart (0.1.7)
+  - JBChartView (2.8.14)
+
+DEPENDENCIES:
+  - FSLineChart (~> 0.1.7)
+  - JBChartView
+
+SPEC CHECKSUMS:
+  FSLineChart: 1b8d3727e8feb323144126d381184bf1b15e6efc
+  JBChartView: e89eabe6aefabd863ea345f3cedbfb773674647c
+
+COCOAPODS: 0.37.2

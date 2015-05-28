@@ -1,0 +1,6 @@
+framework module FSLineChart {
+  umbrella header "Pods-ChartTest-FSLineChart-umbrella.h"
+
+  export *
+  module * { export * }
+}
